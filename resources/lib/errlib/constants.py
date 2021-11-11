@@ -1,3 +1,4 @@
+# coding: utf-8
 
 ERR_API_VERSION = 'v2'
 ERR_API_BASEURL = 'https://services.err.ee/api/'
